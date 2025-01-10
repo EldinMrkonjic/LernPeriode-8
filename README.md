@@ -12,3 +12,5 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 25.10.2024 Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
 Planung 10.01.2025
+
+Wird noch fertig angepasst und ergänzt
