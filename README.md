@@ -11,5 +11,13 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 
 
 # Planung 10.01.2025
+- [x] Aufträge für Tag 3 im Modul 347 nachgearbeitet.
+- [x] GitHub Repo und Planung für nächste woche erstellt
+- [x] Modul 450 für die LB gearbeitet
 
-Wird noch fertig angepasst und ergänzt
+
+# Planung 17.01.2025
+- [ ] Aufträge für Tag 4 im Modul 347 nachgearbeitet.
+- [ ] GitHub Repo angepasst und verschönert
+- [ ] Im Modul 114 Eingeschrieben
+
