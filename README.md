@@ -9,8 +9,7 @@ Was hatten Sie sich am Ende von LP7 vorgenommen? Was war Ihr VBV? Ich würde ger
 
 Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 legen da es wichtig ist für weitere Module.
 
-25.10.2024 Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
-Planung 10.01.2025
+# Planung 10.01.2025
 
 Wird noch fertig angepasst und ergänzt
