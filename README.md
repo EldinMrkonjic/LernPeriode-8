@@ -23,6 +23,6 @@ Was wäre ein geeignetes Projekt für diese LP7? Den Fokus auf das Modul 295 leg
 
 
 # Planung 24.01.2025
-- [ ] GitRepo Aktualisiert
-- [ ] Planung für Nächstes mal
-- [ ] Dsl Nachweis drehen
+- [x] GitRepo Aktualisiert
+- [x] Planung für Nächstes mal
+- [x] Dsl Nachweis drehen
